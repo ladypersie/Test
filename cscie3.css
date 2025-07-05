@@ -1,0 +1,55 @@
+
+
+#studentname{
+	border:1px solid darkgray;
+	padding:.7em;
+	background-color: gray;
+	width:20%;
+}
+
+.namedata{
+	color: maroon;
+	font-weight:bold;
+}
+
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333;
+}
+.container {
+	width: 80%;
+	margin: auto;
+}
+
+h4 {
+	border-top: 1px solid black;
+	padding-top: 1em;
+	width: 95%;
+}
+
+.hint {
+	display:none;
+	color:red;
+}
+
+.hwbutton {
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    font-style:normal;
+    padding: .5em;
+    text-shadow:1px 1px 0px #cd8a15;
+    background-color:#f6b33d;
+}
+
+.hwbutton:hover {
+	background-color:#d29105;
+	cursor: pointer;
+}
+.hwbutton:active {
+	position:relative;
+	top:1px;
+}
